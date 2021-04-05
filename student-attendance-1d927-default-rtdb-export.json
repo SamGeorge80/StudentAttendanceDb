@@ -1,0 +1,9 @@
+{
+  "class name" : [ null, {
+    "name " : "John",
+    "roll_no " : 1
+  }, {
+    "name " : "Slappy",
+    "roll_no " : 2
+  } ]
+}
